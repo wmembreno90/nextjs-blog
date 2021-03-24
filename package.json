@@ -10,6 +10,7 @@
   "dependencies": {
     "classnames": "^2.2.6",
     "date-fns": "^2.19.0",
+    "gray-matter": "^4.0.2",
     "next": "^10.0.9",
     "nextjs": "^0.0.3",
     "node": "^15.10.0",
